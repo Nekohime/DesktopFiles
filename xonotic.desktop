@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Xonotic
+GenericName=Xonotic
+Comment=OpenSource First Person Shooter
+Exec=/opt/xonotic/xonotic-linux64-sdl -basedir /opt/xonotic/
+Icon=/opt/xonotic/icons/xonotic.svg
+Terminal=false
+Type=Application
+Categories=Game;
+StartupNotify=false
+#MimeType=application/x-blender;

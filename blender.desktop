@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Blender
+GenericName=Blender
+Comment=Blender ffs!
+Exec=/opt/blender/blender
+Icon=/opt/blender/icons/scalable/apps/blender.svg
+Terminal=false
+Type=Application
+Categories=Graphics;
+StartupNotify=false
+MimeType=application/x-blender;

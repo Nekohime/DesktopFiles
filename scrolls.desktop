@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Scrolls
+GenericName=Scrolls
+Comment=Mojang's Collectible Card Game
+Exec=/opt/scrolls/Scrolls
+Icon=/opt/scrolls/Scrolls_Data/Resources/UnityPlayer.png
+Terminal=false
+Type=Application
+Categories=Game;
+StartupNotify=false
+#MimeType=application/x-uhhhh; #;)
