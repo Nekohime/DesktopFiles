@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Exec=java -jar /usr/local/bin/RuneLite.jar --mode=OFF
+Name=RuneLite
+Comment=RuneLite launcher
+Categories=Game
+Icon=/usr/share/icons/hicolor/128x128/apps/runelite.png
